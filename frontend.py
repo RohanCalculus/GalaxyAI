@@ -90,7 +90,8 @@ st.sidebar.markdown(
     """
     <br><br>
     <p style="text-align: center; font-size: 20px;">
-        Made with <span style="color: red;">&hearts;</span> by Rohan
+        Made with <span style="color: red;">&hearts;</span> by 
+        <a href="https://github.com/RohanCalculus/GalaxyAI" target="_blank" style="text-decoration: none; color: black;"><u>Rohan</u></a>
     </p>
     """, 
     unsafe_allow_html=True
