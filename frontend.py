@@ -66,7 +66,7 @@ st.markdown(
 
 
 # Sidebar setup
-st.sidebar.image("logo1.png", use_column_width=True)  # Display logo image in the sidebar
+st.sidebar.image("media/logo1.png", use_column_width=True)  # Display logo image in the sidebar
 
 st.sidebar.markdown(
     """
