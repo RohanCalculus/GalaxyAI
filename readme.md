@@ -7,6 +7,8 @@ This project mainly does two things with the help of AI:-
 ## Video Demo
 https://github.com/user-attachments/assets/b7f9ffdb-f563-4ec5-abe7-0317a4b7a017
 
+* [Click here](https://youtu.be/b1t5KI-ErsQ) for full video explanation!
+
 ## Follow the steps to setup
 1. Create your virtual environment `python -m venv <venv_name>`
 2. Activate the virtual environment `.\<venv_name>\Scripts\activate`
