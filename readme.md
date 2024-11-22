@@ -4,6 +4,9 @@ This project mainly does two things with the help of AI:-
 1. Generates an image of the galaxy 
 2. Can color an image of the galaxy 
 
+## Video Demo
+https://github.com/user-attachments/assets/b7f9ffdb-f563-4ec5-abe7-0317a4b7a017
+
 ## Follow the steps to setup
 1. Create your virtual environment `python -m venv <venv_name>`
 2. Activate the virtual environment `.\<venv_name>\Scripts\activate`
