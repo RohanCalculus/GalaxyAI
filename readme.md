@@ -1,5 +1,12 @@
 # Welcome to the Galaxy Image Colorizer!
 
+[![Python](https://img.shields.io/badge/Python-blue)](https://www.python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-maroon)](https://fastapi.tiangolo.com/)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-purple)](https://www.tensorflow.org/api_docs)
+[![Pytorch](https://img.shields.io/badge/Pytorch-green)](https://pytorch.org/docs/stable/index.html)
+[![Pix2Pix](https://img.shields.io/badge/Pix2Pix-GAN-gold)](https://arxiv.org/pdf/1611.07004)
+[![WGAN](https://img.shields.io/badge/Wasserstein-GAN-mint)]([https://huggingface.co/transformers/](https://arxiv.org/pdf/1701.07875))
+
 This project mainly does two things with the help of AI:-
 1. Generates an image of the galaxy 
 2. Can color an image of the galaxy 
