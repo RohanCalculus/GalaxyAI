@@ -7,6 +7,8 @@ This project mainly does two things with the help of AI:-
 ## Video Demo
 https://github.com/user-attachments/assets/b7f9ffdb-f563-4ec5-abe7-0317a4b7a017
 
+https://github.com/user-attachments/assets/59fffd68-8aa7-4bda-b00c-632c94f32372
+
 * [Click here](https://youtu.be/b1t5KI-ErsQ) for full video explanation!
 
 ## Follow the steps to setup
